@@ -25,7 +25,17 @@ By cloning this code, you will be having a complete ***Speech-To-Text*** applica
     pip install -r requirements.txt
     ```
 
-4. Run the script: ```text_generator.py``` and enjoy using the *App*.
+4. Create a ```.env``` file and save your ***OPENAI_API_KEY*** there, it should be in the format:
+    ```python
+    ## .env
+    OPENAI_API_KEY='sk- ...'
+    ```
+    or simply, set it from the bash/ command line as a variable parameter, i.e., type in the terminal:
+    ```bash
+    set OPENAI_API_KEY=YOUR_OPENAI_API_KEY
+    ```
+
+5. Run the script: ```text_generator.py``` and enjoy using the *App*.
 
 ![Text-Generator](https://github.com/sulaiman-shamasna/Text-Generator/blob/main/plots/Text-Generator-UI.png)
 
