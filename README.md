@@ -24,6 +24,6 @@ By cloning this code, you will be having a complete ***Speech-To-Text*** applica
     ```
 4. Run the script: ```text_generator.py``` and enjoy using the *App*.
 
-![Text-Generator](https://github.com/sulaiman-shamasna/Text-Generator/blob/main/plots/UI-Text-Generator.png).
+![Text-Generator](https://github.com/sulaiman-shamasna/Text-Generator/blob/main/plots/Text-Generator-UI.png).
 
 After having run the *App*, the following window will open in your machine. The *App* provides you some features to select from, e.g., the language, model, etc. You can choose either to browse a pre-recorded audio file, or record one, then select the language and the model, press transcribe (the transcribtion will appear in the window), then you can save it into a specified directory.
